@@ -1,2 +1,2 @@
-# Projekt_2_Winda
-Projekt na przedmiot "Podstawy programowania". Wizualizacja pracy windy w WinApi.
+# Projekt_wizualizacja_IMU
+Program wizualizujący dane z IMU na wykresach w WinApi
